@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIGHT ON AND OFF</title>
+   
+</head>
+<body>
+    <img src="istockphoto-156642734-612x612.jpg" alt="BULB OFF" height="300PX" width="300PX" id="img">
+    <BR/>
+    <button onclick="on()">on</button>
+    <button onclick="off()">off</button>
+    <script src="bulb.js">
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,7 @@
+function on(){
+    document.getElementById("img").src="depositphotos_3113907-stock-photo-light-bulb.jpg" 
+}
+function off(){
+    document.getElementById("img").src="istockphoto-156642734-612x612.jpg" 
+}    
+
